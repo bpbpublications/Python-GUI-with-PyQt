@@ -1,2 +1,2 @@
-# Python GUIs with PyQt
- Python GUIs with PyQt, by BPB Publications
+# Python GUI with PyQt
+ Python GUI with PyQt, by BPB Publications
