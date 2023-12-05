@@ -1,2 +1,2 @@
-# Building Modern GUIs in Python using PyQt5 and Qt Designer
- Building Modern GUIs in Python using PyQt5 and Qt Designer, by BPB Publications
+# Python GUIs with PyQt
+ Python GUIs with PyQt, by BPB Publications
